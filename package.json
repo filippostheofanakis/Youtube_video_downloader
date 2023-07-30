@@ -1,0 +1,19 @@
+{
+  "name": "youtube-video-downloader",
+  "version": "1.0.0",
+  "description": "this is youtube video downloader with Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "youtube",
+    "video",
+    "downloader"
+  ],
+  "author": "theofanakis",
+  "license": "ISC",
+  "dependencies": {
+    "ytdl-core": "^4.11.4"
+  }
+}
